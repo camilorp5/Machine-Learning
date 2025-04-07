@@ -14,3 +14,4 @@ y_predict = LR.predict(X_test)
 LR.coef_
 
 # Tune regularization parameters with cross validation
+#prueba
